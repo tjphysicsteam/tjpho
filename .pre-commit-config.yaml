@@ -1,0 +1,27 @@
+default_stages: [pre-commit, pre-push]
+fail_fast: false
+exclude: ^_build/.*$
+
+
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v5.0.0
+    hooks:
+      - id: trailing-whitespace
+      - id: mixed-line-ending
+      - id: check-toml
+      - id: check-yaml
+  - repo: https://github.com/crate-ci/typos
+    rev: v1.27.3
+    hooks:
+      - id: typos
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.6.9
+    hooks:
+      - id: ruff-format
+  - repo: https://github.com/executablebooks/mdformat
+    rev: 0.7.18
+    hooks:
+      - id: mdformat
+        additional_dependencies:
+          - mdformat-myst
