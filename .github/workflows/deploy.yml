@@ -1,3 +1,5 @@
+name: Deploy to static branch
+
 on:
   push:
     branches: ["main"]
