@@ -109,7 +109,7 @@ The second will push the built documentation to a branch called `static`. We use
 to deploy our website, so navigate to director4 and then open the editor. In the terminal, run:
 
 ```bash
-cd public
+cd public/olympiad
 ```
 
 Ensure that it is on the `static` branch by running
