@@ -105,8 +105,13 @@ There is two [github actions](https://docs.github.com/en/actions/about-github-ac
 set up for the repository. The first runs continuous integration, to make sure the documentation build
 doesn't break.
 
-The second will push the built documentation to a branch called `static`. We use [director4](https://director.tjhsst.edu)
-to deploy our website, so navigate to director4 and then open the editor. In the terminal, run:
+The second will push the built documentation to a branch called `static`.
+
+Before deploying, first create a [new release](https://github.com/tjphysicsteam/tjpho/releases)
+on Github. After that continue on with deploying.
+
+TJ Physics Team uses [director4](https://director.tjhsst.edu)
+to deploy our website, so navigate to director4, and open the editor. In the terminal, run:
 
 ```bash
 cd public/olympiad
