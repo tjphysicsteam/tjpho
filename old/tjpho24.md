@@ -1,16 +1,17 @@
-# Exam Information
+# TJPhO 2024
 
-Welcome to the 2025 TJ Physics Olympiad, the largest international high school run physics examination!
+Welcome to the 2024 TJ Physics Olympiad, the largest international high school run physics examination!
+This year's contest will run from 06/07 8AM EST to 06/10 11:59PM EST.
 The Thomas Jefferson Physics Olympiad (TJPhO) is a free annual international high school competition that
 focuses one one applied physics problem every year.
 
-## Date and Timing
-
-The date and timings are still being decided. Check back here towards the end of the school year!
-
 ## Topic
 
-The topic is still being decided. Check back here towards the end of the school year!
+The theme of this year's exam is stars! There are several free response questions,
+each which has multiple subsections. Each free response question focuses on a particular
+topic in physics and can be approached using AP Physics knowledge. The thought process must be explained,
+with calculations and diagrams if necessary, to receive credit. Partial credit is given for incomplete solutions.
+Problems are weighted by difficulty: the test usually gets harder as it goes.
 
 ## Exam
 
@@ -32,4 +33,6 @@ Partial credit will be given, so even if you are not able to solve a problem ful
 
 ## Sponsors
 
-Check back towards the end of the year!
+This year, TJPhO was sponsors by wolfram, Impact Books, and Physics with Elliot.
+
+![Wolfram logo](/img/wolfram-logo.png){align=center}
