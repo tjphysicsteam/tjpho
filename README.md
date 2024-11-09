@@ -20,7 +20,7 @@ cd tjpho
 Install the dependencies
 
 ```bash
-uv run pre-commit install -a
+uv run pre-commit install
 ```
 
 To launch a live-reloading session, you can then do:
