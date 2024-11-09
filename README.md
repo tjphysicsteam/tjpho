@@ -131,3 +131,11 @@ git pull
 ```
 
 and check out the site at https://activities.tjhsst.edu/physics/olympiad
+
+## Maintenance
+
+### Updating dependencies
+
+Most of the time, you can run `uv lock -U` to update dependencies.
+
+To update python versions to version, say, 3.14, you can use `uv python pin 3.14`.

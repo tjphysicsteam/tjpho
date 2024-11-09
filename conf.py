@@ -55,13 +55,25 @@ html_theme_options = {
             "url": "https://github.com/tjphysicsteam/tjpho",
             "icon": "fa-brands fa-github",
         },
+        {
+            "name": "Instagram",
+            "url": "https://www.instagram.com/tjpho/",
+            "icon": "fa-brands fa-instagram",
+        },
+        {
+            "name": "Facebook",
+            "url": "https://www.facebook.com/groups/tjphysicsteam/",
+            "icon": "fa-brands fa-facebook-f",
+        },
     ],
     "footer_start": ["copyright"],
-    "footer_end": ["sphinx-version"],
+    "footer_end": [],
 }
 
 html_sidebars = {
-    "index": ["description.html"],
+    "**": ["description.html"],
+    # don't use description.html for the main page
+    "index": [],
 }
 
 html_css_files = ["custom.css"]
