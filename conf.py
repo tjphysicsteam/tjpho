@@ -44,6 +44,7 @@ html_theme = "pydata_sphinx_theme"
 html_static_path = ["_static"]
 
 html_favicon = "_static/favicon.png"
+html_show_sourcelink = False
 
 html_theme_options = {
     # Uncomment once date is finalized
@@ -58,3 +59,9 @@ html_theme_options = {
     "footer_start": ["copyright"],
     "footer_end": ["sphinx-version"],
 }
+
+html_sidebars = {
+    "index": ["description.html"],
+}
+
+html_css_files = ["custom.css"]
