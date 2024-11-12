@@ -6,6 +6,17 @@ h1, h2 {
   font-weight: bold;
 }
 
+#logo-pic {
+    margin-top: 1em;
+}
+
+#logo-pic img {
+    width: 60%;
+    max-width: 190px;
+    margin: 0 auto;
+    display: block;
+}
+
 .bio-info {
     margin: 1em auto;
     max-width: 220px;
