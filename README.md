@@ -58,7 +58,7 @@ First, switch to a new branch, if you haven't already:
 
 ```bash
 git checkout main
-git pull https://github.com/tjphysicsteam/tjpho main
+git pull https://github.com/tjphysicsteam/tjpho.git main
 git checkout -b patch-1
 ```
 
