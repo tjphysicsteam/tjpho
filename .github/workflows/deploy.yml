@@ -21,7 +21,7 @@ jobs:
         uses: astral-sh/setup-uv@v3
         with:
           enable-cache: true
-          version: "0.4.x"
+          version: "0.5.x"
 
       - name: Build docs
         run: uv run just html
