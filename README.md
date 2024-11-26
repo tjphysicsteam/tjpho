@@ -39,7 +39,7 @@ check out the documentation of those two projects.
 
 If you just want to edit content, you can edit the markdown files in the repository.
 
-> \[!TIP\]
+> [!TIP]
 > You can use [sphinx directives](https://myst-parser.readthedocs.io/en/latest/syntax/roles-and-directives.html)
 > to create special boxes for notes, important information, and much more!
 
@@ -98,7 +98,7 @@ merge into main.
 
 ## Deployment
 
-> \[!NOTE\]
+> [!NOTE]
 > The following information is only relevant to the Physics Team officers (specifically the webmaster).
 
 There is two [github actions](https://docs.github.com/en/actions/about-github-actions/understanding-github-actions)
