@@ -5,6 +5,8 @@ This year's contest will run from 06/07 8AM EST to 06/10 11:59PM EST.
 The Thomas Jefferson Physics Olympiad (TJPhO) is a free annual international high school competition that
 focuses one one applied physics problem every year.
 
+You can find this years problem paper [here](./papers/2024_TJPhO.pdf).
+
 ## Topic
 
 The theme of this year's exam is stars! There are several free response questions,

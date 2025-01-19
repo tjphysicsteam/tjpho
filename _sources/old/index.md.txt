@@ -9,7 +9,8 @@ To find information about this years exam, check out [this page](/exam-info)
 ```{toctree}
 ---
 maxdepth: 1
-glob:
 ---
-*
+tjpho24
+tjpho23
+tjpho21
 ```
