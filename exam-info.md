@@ -6,11 +6,12 @@ focuses one one applied physics problem every year.
 
 ## Date and Timing
 
-The date and timings are still being decided. Check back here towards the end of the school year!
+The competition will be held during June 14th-16th, 2025!
+You can register [here](https://tinyurl.com/2025TJPHO).
 
 ## Topic
 
-The topic is still being decided. Check back here towards the end of the school year!
+The topic is a surprise for this year - check back on exam day for more!
 
 ## Exam
 
