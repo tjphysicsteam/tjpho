@@ -15,7 +15,7 @@ The topic is a surprise for this year - check back on exam day for more!
 
 ## Exam
 
-Participants will be given four days to complete the TJ Physics Olympiad. It is recommended that participants
+Participants will be given three days to complete the TJ Physics Olympiad. It is recommended that participants
 compete in teams of three, one of whom will register by filling out the form. When the competition starts,
 you will receive an email with the problems to submit and a google form to submit your solutions.
 While the exam is at the high school physics level, middle school students may also participate.
