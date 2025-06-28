@@ -4,6 +4,8 @@ Welcome to the 2025 TJ Physics Olympiad, the largest international high school r
 The Thomas Jefferson Physics Olympiad (TJPhO) is a free annual international high school competition that
 focuses one one applied physics problem every year.
 
+You can find this years TJPhO paper [here](/old/papers/2025_TJPhO.pdf)
+
 ## Date and Timing
 
 The competition will be held during June 14th-16th, 2025!
@@ -11,7 +13,7 @@ You can register [here](https://tinyurl.com/2025TJPHO).
 
 ## Topic
 
-The topic is a surprise for this year - check back on exam day for more!
+The topic this year was Engines and Motion!
 
 ## Exam
 
