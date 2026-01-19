@@ -5,7 +5,7 @@ exclude: ^_build/.*$
 
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v5.0.0
+    rev: v6.0.0
     hooks:
       - id: trailing-whitespace
       - id: mixed-line-ending
@@ -16,11 +16,11 @@ repos:
     hooks:
       - id: typos
   - repo: https://github.com/astral-sh/ruff-pre-commit
-    rev: v0.11.13
+    rev: v0.14.13
     hooks:
       - id: ruff-format
   - repo: https://github.com/executablebooks/mdformat
-    rev: 0.7.22
+    rev: 1.0.0
     hooks:
       - id: mdformat
         additional_dependencies:
