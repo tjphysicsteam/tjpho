@@ -1,19 +1,19 @@
 # Exam Information
 
-Welcome to the 2025 TJ Physics Olympiad, the largest international high school run physics examination!
+Welcome to the 2026 TJ Physics Olympiad, the largest international high school run physics examination!
 The Thomas Jefferson Physics Olympiad (TJPhO) is a free annual international high school competition that
-focuses one one applied physics problem every year.
+focuses on applied physics problem every year.
 
-You can find this years TJPhO paper [here](/old/papers/2025_TJPhO.pdf)
+You can find this year's TJPhO paper [here](/old/papers/2026_TJPhO.pdf)
 
 ## Date and Timing
 
-The competition will be held during June 14th-16th, 2025!
-You can register [here](https://tinyurl.com/2025TJPHO).
+The competition was held June 27th-29th, 2026!
+Registration for this year is closed.
 
 ## Topic
 
-The topic this year was Engines and Motion!
+The topic this year was Fluids!
 
 ## Exam
 
@@ -35,4 +35,4 @@ Partial credit will be given, so even if you are not able to solve a problem ful
 
 ## Sponsors
 
-Check back towards the end of the year!
+![](/img/AoPS_Main_Logo.png) \[AOPS Flyer\](/img/AOPS Sponsorship Flyer.pdf)
