@@ -14,6 +14,7 @@ Registration for this year is closed.
 ## Topic
 
 The topic this year was Fluids!
+
 ## Exam
 
 Participants will be given three days to complete the TJ Physics Olympiad. It is recommended that participants
@@ -34,4 +35,4 @@ Partial credit will be given, so even if you are not able to solve a problem ful
 
 ## Sponsors
 
-![](/img/AoPS_Main_Logo.png) [AOPS Flyer](/img/AOPS Sponsorship Flyer.pdf)
+![](/img/AoPS_Main_Logo.png) \[AOPS Flyer\](/img/AOPS Sponsorship Flyer.pdf)
