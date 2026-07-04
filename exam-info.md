@@ -35,4 +35,4 @@ Partial credit will be given, so even if you are not able to solve a problem ful
 
 ## Sponsors
 
-![](/img/AoPS_Main_Logo.png) [AoPS Flyer](/img/AOPS Sponsorship Flyer.pdf)
+![](/img/AoPS_Main_Logo.png) \[AoPS Flyer\](/img/AOPS Sponsorship Flyer.pdf)
