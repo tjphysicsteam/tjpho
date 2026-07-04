@@ -14,10 +14,7 @@ tjpho26
 tjpho25
 tjpho24
 tjpho23
-```
-
-[TJPhO 2022](./papers/2022_tjpho.pdf)
-
-```{toctree}
 tjpho21
 ```
+[TJPhO 2022](./papers/2022_TJPhO.pdf)
+
