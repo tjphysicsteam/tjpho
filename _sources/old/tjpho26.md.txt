@@ -1,4 +1,4 @@
-# Exam Information
+# TJPhO 2026
 
 Welcome to the 2026 TJ Physics Olympiad, the largest international high school run physics examination!
 The Thomas Jefferson Physics Olympiad (TJPhO) is a free annual international high school competition that
