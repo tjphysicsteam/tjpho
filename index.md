@@ -1,6 +1,6 @@
 # TJ Physics Olympiad
 
-Welcome to the 2025 TJ Physics Olympiad, the largest international high school run physics examination!
+Welcome to the 2027 TJ Physics Olympiad, the largest international high school run physics examination!
 The Thomas Jefferson Physics Olympiad (TJPhO) is a free annual international high school competition
 that focuses on one applied physics problem every year.
 
