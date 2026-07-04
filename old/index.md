@@ -14,6 +14,8 @@ tjpho26
 tjpho25
 tjpho24
 tjpho23
-papers/2022_tjpho
+```
+[TJPhO 2022](./papers/2022_tjpho)
+```{toctree}
 tjpho21
 ```
