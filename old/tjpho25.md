@@ -1,19 +1,19 @@
 # Exam Information
 
-Welcome to the 2027 TJ Physics Olympiad, the largest international high school run physics examination!
+Welcome to the 2025 TJ Physics Olympiad, the largest international high school run physics examination!
 The Thomas Jefferson Physics Olympiad (TJPhO) is a free annual international high school competition that
 focuses one one applied physics problem every year.
 
-You can find last year's TJPhO paper [here](/old/papers/2026_TJPhO.pdf)
+You can find this years TJPhO paper [here](./papers/2025_TJPhO.pdf)
 
 ## Date and Timing
 
-The next competition will be held during June, 2027! The last one was held June 27-29, 2026 EST.
-Registration is not open yet.
+The competition will be held during June 14th-16th, 2025!
+You can register [here](https://tinyurl.com/2025TJPHO).
 
 ## Topic
 
-This year's topic is to be decided. Last year's was fluids.
+The topic this year was Engines and Motion!
 
 ## Exam
 
@@ -35,4 +35,4 @@ Partial credit will be given, so even if you are not able to solve a problem ful
 
 ## Sponsors
 
-![](/img/AoPS_Main_Logo.png) [AoPS Flyer](/img/AOPS_Sponsorship_Flyer.pdf)
+Check back towards the end of the year!
